@@ -1,0 +1,14 @@
+.navbar {
+  background: rgba(33, 37, 41, 1);
+  color: white;
+  justify-content: space-between;
+}
+.navbar span {
+  font-size: 21px;
+}
+.navbar ul li.active a {
+  color: white;
+}
+.navbar ul li a {
+  color: rgba(255, 255, 255, 0.55);
+}
